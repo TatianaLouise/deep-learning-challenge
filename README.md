@@ -48,4 +48,18 @@ This combination produced an accuracy of 72.5%
 - Optimization trial 2 produced an accuracy score of - 72.6% (Almost no change)
 
 # Optimization Trial 3 - Increase the numbe of values in each bin during preprocessing and include a third hidden layer.
+<img width="966" alt="Screenshot 2024-03-14 at 10 56 35 AM" src="https://github.com/TatianaLouise/deep-learning-challenge/assets/143769037/fe944a37-6ae6-417e-84c2-eb93ed21eba5">
+<img width="922" alt="Screenshot 2024-03-14 at 10 56 44 AM" src="https://github.com/TatianaLouise/deep-learning-challenge/assets/143769037/a1af49fd-f23d-4813-8395-c5a45df59b58">
+
 <img width="1069" alt="Screenshot 2024-03-14 at 10 46 53 AM" src="https://github.com/TatianaLouise/deep-learning-challenge/assets/143769037/082cf30f-bf17-4864-a791-c983b05e35d6">
+<img width="766" alt="Screenshot 2024-03-14 at 10 51 04 AM" src="https://github.com/TatianaLouise/deep-learning-challenge/assets/143769037/cc1bd8ba-5fcb-423d-967b-0ba3f5f44549">
+- Optimization trial 3 produced an accuracy score of -72.1% (Slight decrease, but almost no change)
+
+## Summary
+
+Overall, each attempt to increase the accuracy score yielding minimal results, and failed to reach an accuracy schore of 75%. The first optimization (Optimization Trial 1) had the most accuracy at 72.8%, making it the most reliable model out of all of the attempts.
+
+## Notes: 
+
+AlphabetSoupCharityOptimization_1.ipynb: Optimization Trial 1 and Optimization Trial 2 
+AlphabetSoupCharityOptimization_2.ipynb: Optimization Trial 3
